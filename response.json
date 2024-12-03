@@ -1,0 +1,2435 @@
+{
+    "data": {
+        "list": [
+            {
+                "is_ad": false,
+                "identification": "app:229435",
+                "type": "app",
+                "app": {
+                    "id": 229435,
+                    "identifier": "com.xd.tabs.taptap",
+                    "title": "全面憨憨战争模拟器",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/501346ca4110ebc74df303bdab4590a2.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/501346ca4110ebc74df303bdab4590a2.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/501346ca4110ebc74df303bdab4590a2.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/501346ca4110ebc74df303bdab4590a2.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x6e7299",
+                        "original_size": 197177
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "",
+                        "download_site": ""
+                    },
+                    "can_view": true,
+                    "released_time": 0,
+                    "button_flag": 3,
+                    "button_label": "预约",
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "hints": [
+                        "不限量测试已开启"
+                    ],
+                    "stat": {
+                        "rating": {
+                            "score": "9.2",
+                            "max": 10,
+                            "latest_score": "8.6",
+                            "latest_version_score": "8.6"
+                        },
+                        "vote_info": {
+                            "1": 226,
+                            "2": 87,
+                            "3": 234,
+                            "4": 432,
+                            "5": 4983
+                        },
+                        "hits_total": 0,
+                        "play_total": 0,
+                        "bought_count": 0,
+                        "feed_count": 1402,
+                        "reserve_count": 1152334,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 0,
+                        "review_count": 6248,
+                        "topic_count": 1335,
+                        "video_count": 67,
+                        "official_topic_count": 50,
+                        "official_video_count": 9,
+                        "official_album_count": 0,
+                        "fans_count": 1205777,
+                        "hits_total_val": 307547
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x707985",
+                        "original_size": 1388915
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x707985",
+                        "original_size": 1388915
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/a8e4dcbf714b30b34b4c3d21cf8a95bc.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x707985",
+                        "original_size": 1388915
+                    },
+                    "tags": [
+                        {
+                            "id": 896299,
+                            "value": "模拟",
+                            "uri": "taptap://taptap.com/library?tag=%E6%A8%A1%E6%8B%9F",
+                            "web_url": "/tag/%E6%A8%A1%E6%8B%9F"
+                        },
+                        {
+                            "id": 944675,
+                            "value": "策略",
+                            "uri": "taptap://taptap.com/library?tag=%E7%AD%96%E7%95%A5",
+                            "web_url": "/tag/%E7%AD%96%E7%95%A5"
+                        },
+                        {
+                            "id": 944676,
+                            "value": "战争",
+                            "uri": "taptap://taptap.com/library?tag=%E6%88%98%E4%BA%89",
+                            "web_url": "/tag/%E6%88%98%E4%BA%89"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 229435,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 229435,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "exclusive",
+                            "uri": "taptap://taptap.com/library?tap_exclusive=1",
+                            "web_url": "/tag/TapTap%E7%8B%AC%E5%AE%B6"
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D229435%26type%3Dapp",
+                        "web_url": "/complaint?id=229435&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=229435&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "Steam好评如潮的憨憨战争模拟器 试玩已开启",
+                    "readable_id": "%E5%85%A8%E9%9D%A2%E6%86%A8%E6%86%A8%E6%88%98%E4%BA%89%E6%A8%A1%E6%8B%9F%E5%99%A8-229435",
+                    "m_button_map": {},
+                    "is_exclusive": true,
+                    "description": {
+                        "text": "一款近乎真实、专业的战争模拟游戏！置身战略军事沙盒中，畅享接近现实的物理引擎。L..."
+                    },
+                    "stat_key": "reserve_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:45213",
+                "type": "app",
+                "app": {
+                    "id": 45213,
+                    "identifier": "com.xd.xdt",
+                    "itunes_id": "1561903786",
+                    "title": "心动小镇",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/5e126ab41dc9ed7e1a69056ca409e935.jpg/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/5e126ab41dc9ed7e1a69056ca409e935.jpg/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/5e126ab41dc9ed7e1a69056ca409e935.jpg/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/5e126ab41dc9ed7e1a69056ca409e935.jpg",
+                        "original_format": "jpeg",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x997c68",
+                        "original_size": 82012
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id1561903786?ct=Tap45213",
+                        "download_site": ""
+                    },
+                    "can_view": true,
+                    "released_time": 1721095203,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "hints": [
+                        "4 天前 新版本更新"
+                    ],
+                    "stat": {
+                        "rating": {
+                            "score": "8.7",
+                            "max": 10,
+                            "latest_score": "8.3",
+                            "latest_version_score": "8.2"
+                        },
+                        "vote_info": {
+                            "1": 10018,
+                            "2": 4082,
+                            "3": 11793,
+                            "4": 23315,
+                            "5": 79979
+                        },
+                        "hits_total": 34143834,
+                        "play_total": 3,
+                        "bought_count": 0,
+                        "feed_count": 113520,
+                        "reserve_count": 2418973,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 1,
+                        "review_count": 128324,
+                        "topic_count": 113298,
+                        "video_count": 221,
+                        "official_topic_count": 356,
+                        "official_video_count": 8,
+                        "official_album_count": 0,
+                        "fans_count": 28864796,
+                        "hits_total_val": 34143834
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x839199",
+                        "original_size": 1532606
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x839199",
+                        "original_size": 1532606
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/c17ba624ca3fa2f526d5947074f76ed2.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x839199",
+                        "original_size": 1532606
+                    },
+                    "tags": [
+                        {
+                            "id": 925239,
+                            "value": "模拟经营",
+                            "uri": "taptap://taptap.com/library?tag=%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5",
+                            "web_url": "/tag/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5"
+                        },
+                        {
+                            "id": 995680,
+                            "value": "治愈",
+                            "uri": "taptap://taptap.com/library?tag=%E6%B2%BB%E6%84%88",
+                            "web_url": "/tag/%E6%B2%BB%E6%84%88"
+                        },
+                        {
+                            "id": 921251,
+                            "value": "多人联机",
+                            "uri": "taptap://taptap.com/library?tag=%E5%A4%9A%E4%BA%BA%E8%81%94%E6%9C%BA",
+                            "web_url": "/tag/%E5%A4%9A%E4%BA%BA%E8%81%94%E6%9C%BA"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 45213,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 45213,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "exclusive",
+                            "uri": "taptap://taptap.com/library?tap_exclusive=1",
+                            "web_url": "/tag/TapTap%E7%8B%AC%E5%AE%B6"
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D45213%26type%3Dapp",
+                        "web_url": "/complaint?id=45213&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=45213&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "慢节奏生活模拟，遇见生活的美好～",
+                    "readable_id": "%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87-45213",
+                    "m_button_map": {},
+                    "is_exclusive": true,
+                    "description": {
+                        "text": "12月14日，心动小镇 ✖ 线条小狗联动即将开启。跟着小狗，把这个冬日变得暖洋洋..."
+                    },
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:165287",
+                "type": "app",
+                "app": {
+                    "id": 165287,
+                    "identifier": "com.PigeonGames.Phigros",
+                    "itunes_id": "1454809109",
+                    "title": "Phigros",
+                    "title_labels": [
+                        "测试"
+                    ],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x887b84",
+                        "original_size": 257288
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id1454809109?ct=Tap165287",
+                        "download_site": "https://pigeon-games.com/?utm_source=TapTap&utm_medium=OfficialWebsite&utm_campaign=Android"
+                    },
+                    "can_view": true,
+                    "released_time": 1567220233,
+                    "button_flag": 5,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "9.6",
+                            "max": 10,
+                            "latest_score": "9.5",
+                            "latest_version_score": "9.5"
+                        },
+                        "vote_info": {
+                            "1": 1550,
+                            "2": 555,
+                            "3": 1984,
+                            "4": 6706,
+                            "5": 72160
+                        },
+                        "hits_total": 35080341,
+                        "play_total": 140427,
+                        "bought_count": 0,
+                        "feed_count": 83710,
+                        "reserve_count": 49444,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 703,
+                        "review_count": 87763,
+                        "topic_count": 76989,
+                        "video_count": 6018,
+                        "official_topic_count": 60,
+                        "official_video_count": 2,
+                        "official_album_count": 1,
+                        "fans_count": 11551435,
+                        "hits_total_val": 35080341
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x556073",
+                        "original_size": 1937111
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x556073",
+                        "original_size": 1937111
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/959068315c19af573a69c9eb08d3ff3d.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x556073",
+                        "original_size": 1937111
+                    },
+                    "tags": [
+                        {
+                            "id": 632926,
+                            "value": "音游",
+                            "uri": "taptap://taptap.com/library?tag=%E9%9F%B3%E6%B8%B8",
+                            "web_url": "/tag/%E9%9F%B3%E6%B8%B8"
+                        },
+                        {
+                            "id": 714133,
+                            "value": "手速",
+                            "uri": "taptap://taptap.com/library?tag=%E6%89%8B%E9%80%9F",
+                            "web_url": "/tag/%E6%89%8B%E9%80%9F"
+                        },
+                        {
+                            "id": 634541,
+                            "value": "节奏",
+                            "uri": "taptap://taptap.com/library?tag=%E8%8A%82%E5%A5%8F",
+                            "web_url": "/tag/%E8%8A%82%E5%A5%8F"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 165287,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 165287,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "exclusive",
+                            "uri": "taptap://taptap.com/library?tap_exclusive=1",
+                            "web_url": "/tag/TapTap%E7%8B%AC%E5%AE%B6"
+                        },
+                        {
+                            "type": "normal",
+                            "uri": "taptap://taptap.com/app_list?key=type&val=bravo&title=%E9%AB%98%E5%88%86%E6%B8%B8%E6%88%8F&show_menu=1",
+                            "web_url": "/collection?key=type&val=bravo&show_menu=1",
+                            "data": {
+                                "icon": {
+                                    "url": "https://img.tapimg.com/market/images/1ec673858baef9262f2cc36db9b9d204.png",
+                                    "medium_url": "https://img.tapimg.com/market/images/1ec673858baef9262f2cc36db9b9d204.png",
+                                    "small_url": "https://img.tapimg.com/market/images/1ec673858baef9262f2cc36db9b9d204.png",
+                                    "original_url": "https://img.tapimg.com/market/images/1ec673858baef9262f2cc36db9b9d204.png",
+                                    "original_format": "png",
+                                    "color": "0xffffff"
+                                },
+                                "label": "高分游戏"
+                            }
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D165287%26type%3Dapp",
+                        "web_url": "/complaint?id=165287&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=165287&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "创新音游玩法，来自四面八方的音符节奏，带给你不一样的音乐体验",
+                    "readable_id": "phigros-165287",
+                    "m_button_map": {},
+                    "is_exclusive": true,
+                    "description": {
+                        "text": "《Phigros》是由Pigeon Games（鸽游）开发的节奏类游戏。<br/>Pig..."
+                    },
+                    "title_labels_v2": [
+                        {
+                            "label": "测试"
+                        }
+                    ],
+                    "editor_choice": true,
+                    "stat_key": "hits_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:168332",
+                "type": "app",
+                "app": {
+                    "id": 168332,
+                    "identifier": "com.miHoYo.Yuanshen",
+                    "itunes_id": "1467190251",
+                    "title": "原神",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/363ca903bbea248e6bcb38539987975b.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/363ca903bbea248e6bcb38539987975b.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/363ca903bbea248e6bcb38539987975b.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/363ca903bbea248e6bcb38539987975b.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x998d88",
+                        "original_size": 66547
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id1467190251?ct=Tap168332",
+                        "download_site": "https://ys.mihoyo.com/?utm_source=TapTap&utm_medium=OfficialWebsite&utm_campaign=Android"
+                    },
+                    "can_view": true,
+                    "released_time": 1601020800,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "7.8",
+                            "max": 10,
+                            "latest_score": "6.6",
+                            "latest_version_score": "6.7"
+                        },
+                        "vote_info": {
+                            "1": 107086,
+                            "2": 34427,
+                            "3": 35120,
+                            "4": 47862,
+                            "5": 232661
+                        },
+                        "hits_total": 75550437,
+                        "play_total": 267614,
+                        "bought_count": 0,
+                        "feed_count": 433254,
+                        "reserve_count": 3120028,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 2759,
+                        "review_count": 474208,
+                        "topic_count": 397094,
+                        "video_count": 33401,
+                        "official_topic_count": 3847,
+                        "official_video_count": 67,
+                        "official_album_count": 0,
+                        "fans_count": 32001487,
+                        "hits_total_val": 75550437
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x545278",
+                        "original_size": 1238009
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x545278",
+                        "original_size": 1238009
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/7b3a7c90809db2e42a08d14681750978.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x545278",
+                        "original_size": 1238009
+                    },
+                    "tags": [
+                        {
+                            "id": 641053,
+                            "value": "开放世界",
+                            "uri": "taptap://taptap.com/library?tag=%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C",
+                            "web_url": "/tag/%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C"
+                        },
+                        {
+                            "id": 641050,
+                            "value": "二次元",
+                            "uri": "taptap://taptap.com/library?tag=%E4%BA%8C%E6%AC%A1%E5%85%83",
+                            "web_url": "/tag/%E4%BA%8C%E6%AC%A1%E5%85%83"
+                        },
+                        {
+                            "id": 641029,
+                            "value": "角色扮演",
+                            "uri": "taptap://taptap.com/library?tag=%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94",
+                            "web_url": "/tag/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 168332,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 168332,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "normal",
+                            "uri": "taptap://taptap.com/awards_detail?id=231&title=2022 TapTap&subtitle=最佳持续运营·一直有人爱",
+                            "web_url": "/award/231",
+                            "data": {
+                                "icon": {
+                                    "url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "medium_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "small_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "original_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "original_format": "png",
+                                    "color": "0xffffff"
+                                },
+                                "label": "2022 TapTap 最佳持续运营·一直有人爱"
+                            }
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D168332%26type%3Dapp",
+                        "web_url": "/complaint?id=168332&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=168332&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "全新5.2版本「灵与火的织卷」现已推出！",
+                    "readable_id": "%E5%8E%9F%E7%A5%9E-168332",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "在七种元素交汇的大陆——「提瓦特」，每个人都可以成为神。<br class=\"bbcode-paragraph-br\"/><br class=\"bbcode-paragraph-br\"/>你从世界之外漂流而来..."
+                    },
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:58881",
+                "type": "app",
+                "app": {
+                    "id": 58881,
+                    "identifier": "com.sofunny.Sausage",
+                    "itunes_id": "1326730621",
+                    "title": "香肠派对",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/d2bc5d75972b1540f3a25c9dd95a212b.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/d2bc5d75972b1540f3a25c9dd95a212b.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/d2bc5d75972b1540f3a25c9dd95a212b.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/d2bc5d75972b1540f3a25c9dd95a212b.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x836a60",
+                        "original_size": 244960
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id1326730621?ct=Tap58881",
+                        "download_site": "https://xc.xd.com/?t=201805220800&utm_source=TapTap&utm_medium=OfficialWebsite&utm_campaign=Android"
+                    },
+                    "can_view": true,
+                    "released_time": 1524621270,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "8.7",
+                            "max": 10,
+                            "latest_score": "6.9",
+                            "latest_version_score": "6.9"
+                        },
+                        "vote_info": {
+                            "1": 78883,
+                            "2": 20420,
+                            "3": 44203,
+                            "4": 71180,
+                            "5": 478744
+                        },
+                        "hits_total": 250883053,
+                        "play_total": 2169944,
+                        "bought_count": 0,
+                        "feed_count": 1317212,
+                        "reserve_count": 850517,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 17031,
+                        "review_count": 714833,
+                        "topic_count": 1166533,
+                        "video_count": 133648,
+                        "official_topic_count": 3434,
+                        "official_video_count": 681,
+                        "official_album_count": 4,
+                        "fans_count": 38889837,
+                        "hits_total_val": 250883053
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x605073",
+                        "original_size": 885869
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x605073",
+                        "original_size": 885869
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ba50c03ceb06126ba09a931b5c2a6360.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x605073",
+                        "original_size": 885869
+                    },
+                    "tags": [
+                        {
+                            "id": 169559,
+                            "value": "射击",
+                            "uri": "taptap://taptap.com/library?tag=%E5%B0%84%E5%87%BB",
+                            "web_url": "/tag/%E5%B0%84%E5%87%BB"
+                        },
+                        {
+                            "id": 169448,
+                            "value": "吃鸡",
+                            "uri": "taptap://taptap.com/library?tag=%E5%90%83%E9%B8%A1",
+                            "web_url": "/tag/%E5%90%83%E9%B8%A1"
+                        },
+                        {
+                            "id": 169662,
+                            "value": "战斗",
+                            "uri": "taptap://taptap.com/library?tag=%E6%88%98%E6%96%97",
+                            "web_url": "/tag/%E6%88%98%E6%96%97"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 58881,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 58881,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "exclusive",
+                            "uri": "taptap://taptap.com/library?tap_exclusive=1",
+                            "web_url": "/tag/TapTap%E7%8B%AC%E5%AE%B6"
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D58881%26type%3Dapp",
+                        "web_url": "/complaint?id=58881&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=58881&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "SS18新赛季：超！绝！武！装！",
+                    "readable_id": "%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9-58881",
+                    "m_button_map": {},
+                    "is_exclusive": true,
+                    "description": {
+                        "text": "SS18新赛季：超！绝！武！装！全副武装完毕，为捍卫肠岛和平，直面强敌，肠岛特种..."
+                    },
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:234280",
+                "type": "app",
+                "app": {
+                    "id": 234280,
+                    "identifier": "com.kurogame.mingchao",
+                    "itunes_id": "6450693428",
+                    "title": "鸣潮",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/98aafaa86349a5fee8beea6928b7f140.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/98aafaa86349a5fee8beea6928b7f140.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/98aafaa86349a5fee8beea6928b7f140.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/98aafaa86349a5fee8beea6928b7f140.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x6e727e",
+                        "original_size": 348110
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/app/id6450693428?ct=Tap234280",
+                        "download_site": "https://mc.kurogame.com?utm_source=TapTap&utm_medium=OfficialWebsite&utm_campaign=Android"
+                    },
+                    "can_view": true,
+                    "released_time": 1716285601,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "6.7",
+                            "max": 10,
+                            "latest_score": "8.1",
+                            "latest_version_score": "7.9"
+                        },
+                        "vote_info": {
+                            "1": 28558,
+                            "2": 14950,
+                            "3": 14484,
+                            "4": 14004,
+                            "5": 43364
+                        },
+                        "hits_total": 10681346,
+                        "play_total": 0,
+                        "bought_count": 0,
+                        "feed_count": 123803,
+                        "reserve_count": 4436705,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 0,
+                        "review_count": 114435,
+                        "topic_count": 123611,
+                        "video_count": 192,
+                        "official_topic_count": 513,
+                        "official_video_count": 2,
+                        "official_album_count": 0,
+                        "fans_count": 8694179,
+                        "hits_total_val": 10681346
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x734f45",
+                        "original_size": 1421671
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x734f45",
+                        "original_size": 1421671
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/ef6da840703bcce7d08861dacb0efb0d.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x734f45",
+                        "original_size": 1421671
+                    },
+                    "tags": [
+                        {
+                            "id": 935690,
+                            "value": "开放世界",
+                            "uri": "taptap://taptap.com/library?tag=%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C",
+                            "web_url": "/tag/%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C"
+                        },
+                        {
+                            "id": 935717,
+                            "value": "二次元",
+                            "uri": "taptap://taptap.com/library?tag=%E4%BA%8C%E6%AC%A1%E5%85%83",
+                            "web_url": "/tag/%E4%BA%8C%E6%AC%A1%E5%85%83"
+                        },
+                        {
+                            "id": 935689,
+                            "value": "动作",
+                            "uri": "taptap://taptap.com/library?tag=%E5%8A%A8%E4%BD%9C",
+                            "web_url": "/tag/%E5%8A%A8%E4%BD%9C"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 234280,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 234280,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D234280%26type%3Dapp",
+                        "web_url": "/complaint?id=234280&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=234280&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "5星角色「椿」登场 ",
+                    "readable_id": "%E9%B8%A3%E6%BD%AE-234280",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "漂泊的旅人，欢迎在这里醒来。<br/>涨落无声，我们的世界刚刚经历一场退潮。<br/>悲鸣降临，..."
+                    },
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:708783",
+                "type": "app",
+                "app": {
+                    "id": 708783,
+                    "identifier": "com.qyfhl.tap",
+                    "itunes_id": "6480260529",
+                    "title": "群英风华录",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/e172b2c70b3186bfd485be8eded31281.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/e172b2c70b3186bfd485be8eded31281.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/e172b2c70b3186bfd485be8eded31281.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/e172b2c70b3186bfd485be8eded31281.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x99958f",
+                        "original_size": 397923
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/app/id6480260529?ct=Tap708783",
+                        "download_site": ""
+                    },
+                    "can_view": true,
+                    "released_time": 1732672802,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "hints": [
+                        "4 天前 首发"
+                    ],
+                    "stat": {
+                        "rating": {
+                            "score": "5.7",
+                            "max": 10,
+                            "latest_score": "5.5",
+                            "latest_version_score": "5.8"
+                        },
+                        "vote_info": {
+                            "1": 539,
+                            "2": 227,
+                            "3": 336,
+                            "4": 232,
+                            "5": 406
+                        },
+                        "hits_total": 157040,
+                        "play_total": 0,
+                        "bought_count": 0,
+                        "feed_count": 905,
+                        "reserve_count": 182934,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 0,
+                        "review_count": 1821,
+                        "topic_count": 905,
+                        "video_count": 0,
+                        "official_topic_count": 32,
+                        "official_video_count": 0,
+                        "official_album_count": 0,
+                        "fans_count": 248847,
+                        "hits_total_val": 157040
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x938a99",
+                        "original_size": 3695192
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x938a99",
+                        "original_size": 3695192
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/9ce7c78edd7f92bb17bf5bcd520e1f34.png",
+                        "original_format": "png",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x938a99",
+                        "original_size": 3695192
+                    },
+                    "tags": [
+                        {
+                            "id": 995425,
+                            "value": "放置",
+                            "uri": "taptap://taptap.com/library?tag=%E6%94%BE%E7%BD%AE",
+                            "web_url": "/tag/%E6%94%BE%E7%BD%AE"
+                        },
+                        {
+                            "id": 995424,
+                            "value": "国风",
+                            "uri": "taptap://taptap.com/library?tag=%E5%9B%BD%E9%A3%8E",
+                            "web_url": "/tag/%E5%9B%BD%E9%A3%8E"
+                        },
+                        {
+                            "id": 995117,
+                            "value": "卡牌",
+                            "uri": "taptap://taptap.com/library?tag=%E5%8D%A1%E7%89%8C",
+                            "web_url": "/tag/%E5%8D%A1%E7%89%8C"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 708783,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 708783,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D708783%26type%3Dapp",
+                        "web_url": "/complaint?id=708783&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=708783&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "执子之手，与子偕老，共赴国风卡牌之旅",
+                    "readable_id": "%E7%BE%A4%E8%8B%B1%E9%A3%8E%E5%8D%8E%E5%BD%95-708783",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "《群英风华录》是一款以乱世为题材的国风卡牌游戏，游戏讲述了你如何在破败中崛起，如..."
+                    },
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:62448",
+                "type": "app",
+                "app": {
+                    "id": 62448,
+                    "identifier": "com.netease.sky",
+                    "itunes_id": "1344733855",
+                    "title": "光·遇",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/f68718caa8e6edb27ba88c88b4682ee0.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/f68718caa8e6edb27ba88c88b4682ee0.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/f68718caa8e6edb27ba88c88b4682ee0.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/f68718caa8e6edb27ba88c88b4682ee0.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x995940",
+                        "original_size": 411599
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id1344733855?ct=Tap62448",
+                        "download_site": ""
+                    },
+                    "can_view": true,
+                    "released_time": 1594173661,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "7.6",
+                            "max": 10,
+                            "latest_score": "8.4",
+                            "latest_version_score": "8.5"
+                        },
+                        "vote_info": {
+                            "1": 20303,
+                            "2": 11058,
+                            "3": 16662,
+                            "4": 19276,
+                            "5": 47760
+                        },
+                        "hits_total": 32015708,
+                        "play_total": 138657,
+                        "bought_count": 0,
+                        "feed_count": 230129,
+                        "reserve_count": 1083367,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 1705,
+                        "review_count": 117547,
+                        "topic_count": 210936,
+                        "video_count": 17488,
+                        "official_topic_count": 1771,
+                        "official_video_count": 135,
+                        "official_album_count": 0,
+                        "fans_count": 14702281,
+                        "hits_total_val": 32015708
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x6f7366",
+                        "original_size": 449768
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x6f7366",
+                        "original_size": 449768
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/bbe98bee5936386cfe4bdf397a0c6b49.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x6f7366",
+                        "original_size": 449768
+                    },
+                    "tags": [
+                        {
+                            "id": 192817,
+                            "value": "唯美",
+                            "uri": "taptap://taptap.com/library?tag=%E5%94%AF%E7%BE%8E",
+                            "web_url": "/tag/%E5%94%AF%E7%BE%8E"
+                        },
+                        {
+                            "id": 225574,
+                            "value": "治愈",
+                            "uri": "taptap://taptap.com/library?tag=%E6%B2%BB%E6%84%88",
+                            "web_url": "/tag/%E6%B2%BB%E6%84%88"
+                        },
+                        {
+                            "id": 192820,
+                            "value": "艺术",
+                            "uri": "taptap://taptap.com/library?tag=%E8%89%BA%E6%9C%AF",
+                            "web_url": "/tag/%E8%89%BA%E6%9C%AF"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 62448,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 62448,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "highlight_tags": [
+                        {
+                            "type": "normal",
+                            "uri": "taptap://taptap.com/awards_detail?id=136&title=2019 App Store&subtitle=最佳 iPhone 游戏",
+                            "web_url": "/award/136",
+                            "data": {
+                                "icon": {
+                                    "url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "medium_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "small_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "original_url": "https://img.tapimg.com/market/images/4449591d2a0d1c8a672378f069cef3c7.png",
+                                    "original_format": "png",
+                                    "color": "0xffffff"
+                                },
+                                "label": "2019 App Store 最佳 iPhone 游戏"
+                            }
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D62448%26type%3Dapp",
+                        "web_url": "/complaint?id=62448&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=62448&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "光遇姆明季年度重磅联动开启",
+                    "readable_id": "%E5%85%89-%E9%81%87-62448",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "《光·遇》是制作人陈星汉历时七年的全新力作。在《光·遇》中，你将开启一段最暖心纯..."
+                    },
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:354563",
+                "type": "app",
+                "app": {
+                    "id": 354563,
+                    "identifier": "com.intiny.hd1.android",
+                    "itunes_id": "6499125531",
+                    "title": "完蛋！我被美女包围了！",
+                    "title_labels": [
+                        "应用"
+                    ],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/5683ed372b4b300d1fbb62569acb0ae4.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/5683ed372b4b300d1fbb62569acb0ae4.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/5683ed372b4b300d1fbb62569acb0ae4.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/5683ed372b4b300d1fbb62569acb0ae4.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x99637d",
+                        "original_size": 18374
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id6499125531?ct=Tap354563",
+                        "download_site": "https://love.xiaoyouneirong.com/?utm_source=TapTap&utm_medium=OfficialWebsite&utm_campaign=Android"
+                    },
+                    "can_view": true,
+                    "released_time": 1722564000,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "7.0",
+                            "max": 10,
+                            "latest_score": "6.6",
+                            "latest_version_score": "6.9"
+                        },
+                        "vote_info": {
+                            "1": 1282,
+                            "2": 266,
+                            "3": 449,
+                            "4": 417,
+                            "5": 2535
+                        },
+                        "hits_total": 2568897,
+                        "play_total": 0,
+                        "bought_count": 0,
+                        "feed_count": 2080,
+                        "reserve_count": 1526056,
+                        "recent_sandbox_played_count": 5244,
+                        "album_count": 0,
+                        "review_count": 5002,
+                        "topic_count": 2080,
+                        "video_count": 0,
+                        "official_topic_count": 112,
+                        "official_video_count": 0,
+                        "official_album_count": 0,
+                        "fans_count": 3357802,
+                        "hits_total_val": 2568897
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x96765c",
+                        "original_size": 878715
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x96765c",
+                        "original_size": 878715
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/b19a9c72ecc8fb4016e625298e8df3b9.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x96765c",
+                        "original_size": 878715
+                    },
+                    "tags": [
+                        {
+                            "id": 996911,
+                            "value": "应用",
+                            "uri": "taptap://taptap.com/library?tag=%E5%BA%94%E7%94%A8",
+                            "web_url": "/tag/%E5%BA%94%E7%94%A8"
+                        },
+                        {
+                            "id": 984477,
+                            "value": "互动电影",
+                            "uri": "taptap://taptap.com/library?tag=%E4%BA%92%E5%8A%A8%E7%94%B5%E5%BD%B1",
+                            "web_url": "/tag/%E4%BA%92%E5%8A%A8%E7%94%B5%E5%BD%B1"
+                        },
+                        {
+                            "id": 984478,
+                            "value": "剧情",
+                            "uri": "taptap://taptap.com/library?tag=%E5%89%A7%E6%83%85",
+                            "web_url": "/tag/%E5%89%A7%E6%83%85"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 354563,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 354563,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D354563%26type%3Dapp",
+                        "web_url": "/complaint?id=354563&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=354563&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "全动态真人演绎，第一视角实景拍摄，沉浸式甜蜜之旅！",
+                    "readable_id": "%E5%AE%8C%E8%9B%8B-%E6%88%91%E8%A2%AB%E7%BE%8E%E5%A5%B3%E5%8C%85%E5%9B%B4%E4%BA%86-354563",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "《完蛋！我被美女包围了！》移动端是一款全动态真人恋爱互动影像作品。产品自Stea..."
+                    },
+                    "title_labels_v2": [
+                        {
+                            "label": "应用"
+                        }
+                    ],
+                    "editor_choice": true,
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            },
+            {
+                "is_ad": false,
+                "identification": "app:376644",
+                "type": "app",
+                "app": {
+                    "id": 376644,
+                    "identifier": "com.tzyz.meng",
+                    "itunes_id": "6446250846",
+                    "title": "无尽梦回",
+                    "title_labels": [],
+                    "icon": {
+                        "url": "https://img.tapimg.com/market/images/43358ce95ae2e656f22dc450f8cc985b.png/appicon?t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/43358ce95ae2e656f22dc450f8cc985b.png/appicon_m?t=1",
+                        "small_url": "https://img.tapimg.com/market/images/43358ce95ae2e656f22dc450f8cc985b.png/appicon_s?t=1",
+                        "original_url": "https://img.tapimg.com/market/images/43358ce95ae2e656f22dc450f8cc985b.png",
+                        "original_format": "png",
+                        "width": 270,
+                        "height": 270,
+                        "color": "0x997957",
+                        "original_size": 68625
+                    },
+                    "price": {
+                        "taptap_current": "",
+                        "discount_rate": 0
+                    },
+                    "uri": {
+                        "google": "",
+                        "google_play": "",
+                        "apple": "https://apps.apple.com/cn/app/id6446250846?ct=Tap376644",
+                        "download_site": ""
+                    },
+                    "can_view": true,
+                    "released_time": 1732068000,
+                    "button_flag": 1,
+                    "style": 0,
+                    "hidden_button": false,
+                    "is_deny_minors": false,
+                    "stat": {
+                        "rating": {
+                            "score": "6.0",
+                            "max": 10,
+                            "latest_score": "6.2",
+                            "latest_version_score": "5.6"
+                        },
+                        "vote_info": {
+                            "1": 935,
+                            "2": 842,
+                            "3": 707,
+                            "4": 478,
+                            "5": 1186
+                        },
+                        "hits_total": 829394,
+                        "play_total": 0,
+                        "bought_count": 0,
+                        "feed_count": 7503,
+                        "reserve_count": 957161,
+                        "recent_sandbox_played_count": 0,
+                        "album_count": 0,
+                        "review_count": 4930,
+                        "topic_count": 7503,
+                        "video_count": 0,
+                        "official_topic_count": 171,
+                        "official_video_count": 0,
+                        "official_album_count": 0,
+                        "fans_count": 1363560,
+                        "hits_total_val": 829394
+                    },
+                    "ad_banner": {
+                        "url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x83635a",
+                        "original_size": 543312
+                    },
+                    "top_banner": {
+                        "url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x83635a",
+                        "original_size": 543312
+                    },
+                    "banner": {
+                        "url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/1080/h/608/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "medium_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/720/h/405/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "small_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg?imageView2/0/w/360/h/203/format/jpg/interlace/1/ignore-error/1&t=1",
+                        "original_url": "https://img.tapimg.com/market/images/f98d6366878119e07888e7f2a05878fb.jpg",
+                        "original_format": "jpeg",
+                        "width": 1920,
+                        "height": 1080,
+                        "color": "0x83635a",
+                        "original_size": 543312
+                    },
+                    "tags": [
+                        {
+                            "id": 984912,
+                            "value": "Roguelike",
+                            "uri": "taptap://taptap.com/library?tag=Roguelike",
+                            "web_url": "/tag/Roguelike"
+                        },
+                        {
+                            "id": 984911,
+                            "value": "动作",
+                            "uri": "taptap://taptap.com/library?tag=%E5%8A%A8%E4%BD%9C",
+                            "web_url": "/tag/%E5%8A%A8%E4%BD%9C"
+                        },
+                        {
+                            "id": 989469,
+                            "value": "二次元",
+                            "uri": "taptap://taptap.com/library?tag=%E4%BA%8C%E6%AC%A1%E5%85%83",
+                            "web_url": "/tag/%E4%BA%8C%E6%AC%A1%E5%85%83"
+                        }
+                    ],
+                    "log": {
+                        "follow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "follow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "open": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "open",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "page_view": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "pageView",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "play": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appRedirect",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "reserve": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appReserve",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unfollow": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "unfollow",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        },
+                        "unreserved": {
+                            "uri": "https://tap-snow.cn-beijing.dualstack.log.aliyuncs.com/logstores/logs/track.gif",
+                            "params": {
+                                "type": "appUnreserved",
+                                "APIVersion": "0.6.0",
+                                "paramId": 376644,
+                                "paramType": "appDetail",
+                                "via": "hot|hot"
+                            }
+                        }
+                    },
+                    "event_log": {
+                        "paramId": 376644,
+                        "paramType": "appDetail",
+                        "via": "hot|hot"
+                    },
+                    "can_buy_redeem_code": {
+                        "flag": false
+                    },
+                    "show_module": [
+                        {
+                            "key": "score",
+                            "value": true
+                        },
+                        {
+                            "key": "review",
+                            "value": true
+                        }
+                    ],
+                    "complaint": {
+                        "uri": "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D376644%26type%3Dapp",
+                        "web_url": "/complaint?id=376644&type=app",
+                        "url": "https://www.taptap.cn/complaint?id=376644&type=app"
+                    },
+                    "serial_number": {
+                        "number_exists": false,
+                        "button_action": 0
+                    },
+                    "rec_text": "动作肉鸽爽游 横扫人类梦境",
+                    "readable_id": "%E6%97%A0%E5%B0%BD%E6%A2%A6%E5%9B%9E-376644",
+                    "m_button_map": {},
+                    "description": {
+                        "text": "《无尽梦回》是一款以14亿人共通梦境为题材的多角色动作肉鸽爽游。低上手门槛，华丽..."
+                    },
+                    "stat_key": "download_count",
+                    "include_app_product_type_complete": false,
+                    "is_console_game": false
+                }
+            }
+        ],
+        "total": 150,
+        "primary_button": 0,
+        "log_keyword": "热门榜",
+        "description": "按最近下载热度计算 · 每 20 分钟更新",
+        "title": "热门榜",
+        "seo": {
+            "title": "安卓热门手游排行榜 - 安卓热门手游推荐 &#124; TapTap 排行榜",
+            "keywords": "热门手游排行,热门手游推荐",
+            "description": "TapTap 为您提供安卓最热门的游戏排行榜，为您推荐当下最好玩的手机游戏。",
+            "index": false
+        },
+        "prev_page": "",
+        "next_page": "/webapiv2/app-top/v2/hits?from=10&limit=10&type_name=hot"
+    },
+    "now": 1733135439,
+    "success": true
+}
